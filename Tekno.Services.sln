@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ezeMenu.Services", "ezeMenu.Services.csproj", "{5EE28D7A-9DFC-4BBB-9BC1-ECCC88E9D42C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekno.Services", "Tekno.Services.csproj", "{5EE28D7A-9DFC-4BBB-9BC1-ECCC88E9D42C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5178755A-E242-4569-80CE-A6AA0020C429}
 	EndGlobalSection
 EndGlobal

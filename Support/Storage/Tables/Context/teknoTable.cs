@@ -1,12 +1,5 @@
-﻿
-using Microsoft.WindowsAzure.Storage.Table;
-using Microsoft.WindowsAzure.Storage.Table.DataServices;
-using System;
-using System.Collections.Generic;
+﻿using Microsoft.WindowsAzure.Storage.Table;
 using System.Data.Services.Common;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace tekno.Services.Storage.Tables
 {
